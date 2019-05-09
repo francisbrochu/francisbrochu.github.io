@@ -5,7 +5,21 @@ title: Home
 use-site-title: true
 ---
 
-## Header test
+## About Me
+
+Presentation and stuff
+
+### Education
+
+Info
+
+### Research Interests
+
+List interests
+
+### Publications
+
+Link to Pub page
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
