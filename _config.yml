@@ -14,7 +14,6 @@ description: Francis Brochu
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Publications: "publications"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
