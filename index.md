@@ -1,16 +1,12 @@
 ---
 layout: page
-#title: Derek Ogle
-#subtitle: Fisheries & Stats Professor / R Enthusiast
-#css: "/css/index.css"
-#meta-title: "Derek Ogle"
-#meta-description: "Professor of Mathemetical Sciences and Natural Resources at Northland College."
+title: Home
+# subtitle: Lorem ipsum
+use-site-title: true
 ---
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="http://derekogle.com/fishR/" role="button" class="btn btn-primary">fishR</a> 
-<a href="http://derekogle.com/IFAR/" role="button" class="btn btn-primary">IFAR Book</a> 
-<a href="http://derekogle.com/NCMTH107/" role="button" class="btn btn-primary">MTH107</a> 
-<a href="http://derekogle.com/NCMTH207/" role="button" class="btn btn-primary">MTH207</a> 
+<a href="https://francisbrochu.github.io/aboutme/" role="button" class="btn btn-primary">About Me</a> 
+<a href="https://francisbrochu.github.io/publications/" role="button" class="btn btn-primary">Publications</a> 
 </div>
