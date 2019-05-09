@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://francisbrochu.github.io"
-baseurl: "aboutme"
+baseurl: ""
 
 # Name of website
 title: My page
@@ -18,6 +18,7 @@ description: # todo ?
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Publications: "publications"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -26,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -167,9 +168,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
-      layout: "post"
+      layout: "pages"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
