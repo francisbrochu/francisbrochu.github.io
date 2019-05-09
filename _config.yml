@@ -1,14 +1,11 @@
 # --- General options --- #
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://francisbrochu.github.io"
 baseurl: ""
 
 # Name of website
-title: My page
+title: Home
 
 # Short description of your site
 description: # todo ?
@@ -70,20 +67,20 @@ social-network-links:
   email: "francis.brochu.2@gmail.com"
   facebook: francis.brochu.3
   github: francisbrochu
-#  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
+#  twitter: user
+#  reddit: user
+#  google-plus: +user
   linkedin: francis-brochu-a31948139
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  xing: user
+#  stackoverflow: "user"
+#  snapchat: user
+#  instagram: user
+#  youtube: user
+#  spotify: user
+#  telephone: +15555555555
+#  steam: user
+#  twitch: user
+#  yelp: user
 
 # Select which share links to show in posts
 share-links-active:
