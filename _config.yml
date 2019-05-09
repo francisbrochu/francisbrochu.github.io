@@ -168,11 +168,11 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: "posts"
     values:
-      layout: "pages"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      layout: "posts"
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
