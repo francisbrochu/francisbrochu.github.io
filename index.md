@@ -24,11 +24,16 @@ Presentation and stuff
 - DS
 - NLP
 
-### Publications
+### Publications and Communications
 
-Link to Pub page
+#### Publications
 
-<div style="text-align:center">
-<strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="https://francisbrochu.github.io/publications/" role="button" class="btn btn-primary">Publications</a> 
-</div>
+ - arxiv Deep
+ - SciRep
+ - BIF2
+ - BIF1
+
+#### Communication
+
+- GLBIO 2017
+- ASMS
