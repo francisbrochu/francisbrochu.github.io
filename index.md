@@ -11,11 +11,18 @@ Presentation and stuff
 
 ### Education
 
-Info
+- MSc IA
+- Microprog
+- PhD
+- MSc Med
+- BSc BIF
+- BSc BCM
 
 ### Research Interests
 
-List interests
+- ML
+- DS
+- NLP
 
 ### Publications
 
