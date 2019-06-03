@@ -11,7 +11,7 @@ Presentation and stuff
 
 ### Education
 
-- M.Sc. in Computer Science - Artificiel Intelligence, Université Laval, Québec, 2018 to 2019.
+- M.Sc. in Computer Science - Artificial Intelligence, Université Laval, Québec, 2018 to 2019.
 - Ph.D. in Computer Science, Université Laval, Québec, 2016 - 
   Advised by Pr. François Laviolette, co-advised by Pr. Jacques Corbeil.
 - M.Sc. in Microbiology-Immunology, Université Laval, Québec, 2013 to 2018
