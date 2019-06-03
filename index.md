@@ -12,7 +12,7 @@ Presentation and stuff
 ### Éducation
 
 - M.Sc. en Informatique - Intelligence Artificielle, Université Laval, Québec, 2018 à 2019.
-- PH.D. en Informatique, Université Laval, Québec, 2016 - 
+- Ph.D. en Informatique, Université Laval, Québec, 2016 - 
   Dirigé par le Pr. François Laviolette, co-dirigé par le Pr. Jacques Corbeil.
 - M.Sc. en Microbiologie-Immunologie, Université Laval, Québec, 2013 à 2018
   Dirigé par le Pr. Jacques Corbeil, co-dirigé par le Pr. François Laviolette.
