@@ -9,22 +9,21 @@ use-site-title: true
 
 Presentation and stuff
 
-### Education
+### Éducation
 
 - MSc IA
-- Microprog
 - PhD
 - MSc Med
 - BSc BIF
 - BSc BCM
 
-### Research Interests
+### Intérêts de Recherche et Professionels
 
 - ML
 - DS
 - NLP
 
-### Publications and Communications
+### Publications et Communications
 
 #### Publications
 
@@ -33,7 +32,7 @@ Presentation and stuff
  - BIF2
  - BIF1
 
-#### Communication
+#### Communications
 
 - GLBIO 2017
 - ASMS
