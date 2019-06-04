@@ -12,18 +12,18 @@ Presentation and stuff
 ### Éducation
 
 - **M.Sc. en Informatique - Intelligence Artificielle** 
-  *Université Laval, Québec,* 2018 à 2019.
+    *Université Laval, Québec,* 2018 à 2019.
 - **Ph.D. en Informatique** 
-  *Université Laval, Québec,* 2016 - 
-  Dirigé par le Pr. François Laviolette, co-dirigé par le Pr. Jacques Corbeil.
+    *Université Laval, Québec,* 2016 - 
+    Dirigé par le Pr. François Laviolette, co-dirigé par le Pr. Jacques Corbeil.
 - **M.Sc. en Microbiologie-Immunologie** 
-  *Université Laval, Québec,* 2013 à 2018
-  Dirigé par le Pr. Jacques Corbeil, co-dirigé par le Pr. François Laviolette.
-  Projet de mémoire: Amélioration de l’assurance de qualité des produits sanguins avec spectrométrie de masse à haut-débit et l’apprentissage automatique.
+    *Université Laval, Québec,* 2013 à 2018
+    Dirigé par le Pr. Jacques Corbeil, co-dirigé par le Pr. François Laviolette.
+    Projet de mémoire: Amélioration de l’assurance de qualité des produits sanguins avec spectrométrie de masse à haut-débit et l’apprentissage automatique.
 - **B.Sc. en Bioinformatique** 
-  *Université Laval, Québec,* 2010 à 2012
+    *Université Laval, Québec,* 2010 à 2012
 - **B.Sc. en Biochimie** 
-  *Université Laval, Québec,* 2008 -
+    *Université Laval, Québec,* 2008 -
 
 ### Expérience de Travail
 
