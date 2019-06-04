@@ -17,11 +17,14 @@ Presentation and stuff
 - **Ph.D. en Informatique** 
     
     *Université Laval, Québec,* 2016 - 
+    
     Dirigé par le Pr. François Laviolette, co-dirigé par le Pr. Jacques Corbeil.
 - **M.Sc. en Microbiologie-Immunologie** 
     
     *Université Laval, Québec,* 2013 à 2018
+    
     Dirigé par le Pr. Jacques Corbeil, co-dirigé par le Pr. François Laviolette.
+    
     Projet de mémoire: Amélioration de l’assurance de qualité des produits sanguins avec spectrométrie de masse à haut-débit et l’apprentissage automatique.
 - **B.Sc. en Bioinformatique** 
     
