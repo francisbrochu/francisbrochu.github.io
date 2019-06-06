@@ -41,7 +41,7 @@ Presentation and stuff
 
 ### Expérience de Travail
 
- - Stagiaire en Intelligence Artificielle, **Can-Explore**
+ - Stagiaire en Intelligence Artificielle, **Can-Explore / MITACS Canada**
  
      *Mai 2019 - Novembre 2019*. 
      
