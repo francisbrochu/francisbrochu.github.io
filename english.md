@@ -35,15 +35,23 @@ Presentation and stuff
 
 ### Work Experience
 
- - Can-Explore
- - Auxiliaire Enseigne
- - Aux Recherche / Stages B.Sc.
+ - Artificial Intelligence Internship, **Can-Explore / MITACS Canada**
+ 
+     *May 2019 - November 2019*. 
+     
+ - Teaching Assistant, **Université Laval**
+ 
+     *2017 - 2019*. Grading of undergraduate tests for GLO-2100 Algorithms and Data Structures (2017-2019) and for GLO-4027 Big Data Treatment.
+     
+ - Research Assistant / Intern, **IBIS, Université Laval**
+ 
+     *2011 - 2013*, Pr. Nicolas Derome Laboratory.
 
 ### Research Interests
 
-- ML
-- DS
-- NLP
+- Machine Learning
+- Data Science
+- Natural Language Processing
 
 ### Publications and Communications
 
@@ -61,5 +69,5 @@ Presentation and stuff
 
 #### Other
 
-- Summer School 2017 tutorial
-- HH Quebec 2016
+- Practical tutorial on Machine Learning applied to Metabolomics Data, **Microbiome Summer Schhol - Big Data Analytics for Omics Science **, Université Laval, *June 2017*. (Link)[https://bioinformaticsdotca.github.io/mss_2017]
+- Participant to the **Hacking Health Québec Hackathon 2016**, Université Laval.
