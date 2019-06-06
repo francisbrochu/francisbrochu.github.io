@@ -9,6 +9,12 @@ use-site-title: true
 
 Presentation and stuff
 
+### Research Interests
+
+- Machine Learning
+- Data Science
+- Natural Language Processing
+
 ### Education
 
 - **M.Sc. in Computer Science - Artificial Intelligence** 
@@ -47,11 +53,10 @@ Presentation and stuff
  
      *2011 - 2013*, Pr. Nicolas Derome Laboratory.
 
-### Research Interests
+#### Other Experience
 
-- Machine Learning
-- Data Science
-- Natural Language Processing
+- Practical tutorial on Machine Learning applied to Metabolomics Data, **Microbiome Summer Schhol - Big Data Analytics for Omics Science **, Université Laval, *June 2017*. [Link](https://bioinformaticsdotca.github.io/mss_2017)
+- Participant to the **Hacking Health Québec Hackathon 2016**, Université Laval.
 
 ### Publications and Communications
 
@@ -66,8 +71,3 @@ Presentation and stuff
 
 - GLBIO 2017
 - ASMS
-
-#### Other
-
-- Practical tutorial on Machine Learning applied to Metabolomics Data, **Microbiome Summer Schhol - Big Data Analytics for Omics Science **, Université Laval, *June 2017*. (Link)[https://bioinformaticsdotca.github.io/mss_2017]
-- Participant to the **Hacking Health Québec Hackathon 2016**, Université Laval.
