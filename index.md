@@ -46,6 +46,11 @@ Presentation and stuff
  - Auxiliaire de Recherche / Stagiaire, **IBIS, Université Laval**
  
      *2011 - 2013*, Laboratoire du Pr. Nicolas Derome.
+     
+#### Autres Expériences
+
+- Tutoriel pratique d'Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science* **, Université Laval, *Juin 2017*. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
+- Participant au **Hackathon Hacking Health Québec 2016**, Université Laval.
 
 ### Intérêts de Recherche et Professionels
 
@@ -66,8 +71,3 @@ Presentation and stuff
 
 - GLBIO 2017
 - ASMS
-
-#### Autres
-
-- Tutoriel pratique d'Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science* **, Université Laval, *Juin 2017*. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
-- Participant au **Hackathon Hacking Health Québec 2016**, Université Laval.
