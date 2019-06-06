@@ -9,6 +9,12 @@ use-site-title: true
 
 Presentation and stuff
 
+### Intérêts de Recherche et Professionels
+
+- Apprentissage Automatique
+- Science des Données
+- Traitement de la Langue Naturelle
+
 ### Éducation
 
 - **M.Sc. en Informatique - Intelligence Artificielle** 
@@ -51,12 +57,6 @@ Presentation and stuff
 
 - Tutoriel pratique d'Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science* **, Université Laval, *Juin 2017*. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
 - Participant au **Hackathon Hacking Health Québec 2016**, Université Laval.
-
-### Intérêts de Recherche et Professionels
-
-- Apprentissage Automatique
-- Science des Données
-- Traitement de la Langue Naturelle
 
 ### Publications et Communications
 
