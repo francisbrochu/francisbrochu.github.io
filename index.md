@@ -35,15 +35,23 @@ Presentation and stuff
 
 ### Expérience de Travail
 
- - Can-Explore
- - Auxiliaire Enseigne
- - Aux Recherche / Stages B.Sc.
+ - Stagiaire en Intelligence Artificielle, **Can-Explore**
+ 
+     *Mai 2019 - Novembre 2019*. 
+     
+ - Auxiliaire d'Enseignement, **Université Laval**
+ 
+     *2017 - 2019*. Correction d'examens pour les cours GLO-2100 Algorithmes et structures de données (2017-2019) et pour GLO-4027 Traitement de données massives.
+     
+ - Auxiliaire de Recherche / Stagiaire, **Université Laval**
+ 
+     *2011 - 2013*, Laboratoire du Pr. Nicolas Derome.
 
 ### Intérêts de Recherche et Professionels
 
-- ML
-- DS
-- NLP
+- Apprentissage Automatique
+- Science des Données
+- Traitement de la Langue Naturelle
 
 ### Publications et Communications
 
@@ -61,5 +69,5 @@ Presentation and stuff
 
 #### Autres
 
-- Tutoriel Ecole d'ete microbio 2017
-- Hacking Health Québec 2016
+- Tutoriel pratique sur l'apprentissage automatique appliqué aux données métabolomique, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science* **, Université Laval, *Juin 2017*. (Lien)[https://bioinformaticsdotca.github.io/mss_2017]
+- Participant au **Hackathon Hacking Health Québec 2016**, Université Laval.
