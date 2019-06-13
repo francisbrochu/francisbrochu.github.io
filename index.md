@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Francis Brochu
+title: Home
 # subtitle: Lorem ipsum
-use-site-title: true
+use-site-title: False
 ---
 
 ## About Me
