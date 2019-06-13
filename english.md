@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Francis Brochu
 # subtitle: Lorem ipsum
 use-site-title: true
 ---
