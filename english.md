@@ -69,5 +69,6 @@ Presentation and stuff
 
 #### Communication
 
-- GLBIO 2017
-- ASMS
+- Oral Presentation at the *Great Lakes Bioinformatics Conference (GLBIO) 2017*, Chicago, Il. in May 2017. *Virtual Lock Masses: an algorithmic method to enable mass spectra comparison in untargeted studies.* **Brochu F**, Plante PL, Drouin A, Laviolette F, Marchand M, Corbeil J.
+
+- Poster at *64th ASMS Conference on Mass Spectrometry and Allied Topics*, San Antonio, Tx in June 2016. *Virtual Lock Masses: an algorithmic method to enable mass spectra comparison in untargeted studies.* **Brochu F**, Plante PL, Drouin A, Laviolette F, Marchand M, Corbeil J.
