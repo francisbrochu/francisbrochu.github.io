@@ -41,7 +41,7 @@ Presentation and stuff
 
 ### Work Experience
 
- - Artificial Intelligence Internship, **Can-Explore / MITACS Canada**
+ - Artificial Intelligence MITACS Internship, **Can-Explore**
  
      *May 2019 - November 2019*. 
      
