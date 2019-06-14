@@ -55,7 +55,7 @@ Presentation and stuff
 
 #### Other Experience
 
-- Practical tutorial on Machine Learning applied to Metabolomics Data, **Microbiome Summer Schhol - Big Data Analytics for Omics Science **, Université Laval, *June 2017*. [Link](https://bioinformaticsdotca.github.io/mss_2017)
+- Practical tutorial on Machine Learning applied to Metabolomics Data, **Microbiome Summer Schhol - Big Data Analytics for Omics Science**, Université Laval, *June 2017*. [Link](https://bioinformaticsdotca.github.io/mss_2017)
 - Participant to the **Hacking Health Québec Hackathon 2016**, Université Laval.
 
 ### Publications and Communications
