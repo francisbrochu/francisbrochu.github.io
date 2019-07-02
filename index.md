@@ -29,7 +29,7 @@ use-site-title: False
     
     Dirigé par le Pr. Jacques Corbeil, co-dirigé par le Pr. François Laviolette.
     
-    Projet de mémoire: Amélioration de l’assurance de qualité des produits sanguins avec spectrométrie de masse à haut-débit et l’apprentissage automatique.
+    Projet de mémoire: *Amélioration de l’assurance de qualité des produits sanguins avec spectrométrie de masse à haut-débit et l’apprentissage automatique.*
     
 - **B.Sc. en Bioinformatique** 
     
@@ -47,11 +47,11 @@ use-site-title: False
      
  - Instructeur de Tutoriel Pratique, *Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique*, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science***.
  
-     Université Laval, *Juin 2017*. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
+     *Juin 2017*, Université Laval. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
      
  - Auxiliaire d'Enseignement, **Université Laval**
  
-     *2017 - 2019*. Correction d'examens pour les cours GLO-2100 Algorithmes et structures de données (2017-2019) et pour GLO-4027 Traitement de données massives.
+     *Janvier 2017 - Avril 2019*. Correction d'examens pour les cours GLO-2100 Algorithmes et structures de données (2017-2019) et pour GLO-4027 Traitement de données massives.
      
  - Participant au **Hackathon Hacking Health Québec 2016**.
  
@@ -59,7 +59,7 @@ use-site-title: False
      
  - Auxiliaire de Recherche / Stagiaire, **IBIS, Université Laval**
  
-     *2011 - 2013*, Laboratoire du Pr. Nicolas Derome.
+     *Janvier 2011 -  Mai 2013*, Laboratoire du Pr. Nicolas Derome.
 
 ## Publications et Communications
 
