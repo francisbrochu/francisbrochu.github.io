@@ -47,11 +47,11 @@ use-site-title: false
  
  - Practical Tutorial Instructor, *Machine Learning applied to Metabolomics Data*, **Microbiome Summer School - Big Data Analytics for Omics Science**. 
  
-     Université Laval, *June 2017*. [Link](https://bioinformaticsdotca.github.io/mss_2017)
+     *June 2017*, Université Laval. [Link](https://bioinformaticsdotca.github.io/mss_2017)
      
  - Teaching Assistant, **Université Laval**
  
-     *2017 - 2019*. Grading of undergraduate tests for GLO-2100 Algorithms and Data Structures (2017-2019) and for GLO-4027 Big Data Treatment.
+     *January 2017 - April 2019*. Grading of undergraduate tests for GLO-2100 Algorithms and Data Structures (2017-2019) and for GLO-4027 Big Data Treatment.
      
  - Participant in the **Hacking Health Québec Hackathon 2016**.
      
@@ -59,7 +59,7 @@ use-site-title: false
  
  - Research Assistant / Intern, **IBIS, Université Laval**
  
-     *2011 - 2013*, Pr. Nicolas Derome Laboratory.
+     *January 2011 - May 2013*, Pr. Nicolas Derome Laboratory.
 
 ## Publications and Communications
 
