@@ -65,10 +65,10 @@ use-site-title: false
 
 ### Publications
 
-- __Francis Brochu__. [Increasing Shape Bias in ImageNet-Trained Networks Using Transfer Learning and Domain-Adversarial Methods.](https://arxiv.org/abs/1907.12892) *arXiv preprint*.
-- __Francis Brochu__, Pier-Luc Plante, Alexandre Drouin, Dominic Gagnon, Dave Richard, Francine Durocher, Caroline Diorio, Mario Marchand, Jacques Corbeil,  and  François  Laviolette.   Mass  spectra  alignment  using  virtual  lock-masses. *Scientific Reports*, 9(1):8469, 2019.
- - Jean-Guillaume  Emond-Rheault,  Antony  T  Vincent,  Mélanie  V  Trudel, __Francis Brochu__, Brian Boyle, Katherine H Tanaka, Sabrina A Attéré, Éric Jubinville, Thomas P Loch, Andrew D Winters, et al. Variants of a genomic island in aeromonas salmonicida subsp. salmonicida link isolates with their geographical origins. *Veterinary microbiology*, 175(1):68–76, 2015.
- -  Steve J  Charette,  __Francis  Brochu__,  Brian  Boyle,  Geneviève Filion,  Katherine H  Tanaka,  and  Nicolas  Derome. Draft genome sequence of the virulent strain 01-b526 of the fish pathogen aeromonas salmonicida. *Journal of bacteriology*, 194(3):722, 2012.
+ - __Francis Brochu__. [Increasing Shape Bias in ImageNet-Trained Networks Using Transfer Learning and Domain-Adversarial Methods.](https://arxiv.org/abs/1907.12892) *arXiv preprint*.
+ - __Francis Brochu__, Pier-Luc Plante, Alexandre Drouin, Dominic Gagnon, Dave Richard, Francine Durocher, Caroline Diorio, Mario Marchand, Jacques Corbeil,  and  François  Laviolette.   [Mass  spectra  alignment  using  virtual  lock-masses](https://www.nature.com/articles/s41598-019-44923-8). *Scientific Reports*, 9(1):8469, 2019.
+ - Jean-Guillaume  Emond-Rheault,  Antony  T  Vincent,  Mélanie  V  Trudel, __Francis Brochu__, Brian Boyle, Katherine H Tanaka, Sabrina A Attéré, Éric Jubinville, Thomas P Loch, Andrew D Winters, et al. [Variants of a genomic island in aeromonas salmonicida subsp. salmonicida link isolates with their geographical origins.](https://www.sciencedirect.com/science/article/pii/S0378113514005380) *Veterinary microbiology*, 175(1):68–76, 2015.
+ -  Steve J  Charette,  __Francis  Brochu__,  Brian  Boyle,  Geneviève Filion,  Katherine H  Tanaka,  and  Nicolas  Derome. [Draft genome sequence of the virulent strain 01-b526 of the fish pathogen aeromonas salmonicida.](https://jb.asm.org/content/194/3/722.short) *Journal of bacteriology*, 194(3):722, 2012.
 
 ### Communication
 
