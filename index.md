@@ -21,7 +21,7 @@ use-site-title: False
     
     *Université Laval, Québec,* 2016 - 
     
-    Dirigé par le Pr. François Laviolette, co-dirigé par le Pr. Jacques Corbeil.
+    Dirigé par le Pr. François Laviolette.
     
 - **M.Sc. en Microbiologie-Immunologie** 
     
@@ -45,13 +45,13 @@ use-site-title: False
  
      *Mai 2019 - Novembre 2019*. 
      
- - Instructeur de Tutoriel Pratique, *Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique*, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science***.
- 
-     *Juin 2017*, Université Laval. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
-     
  - Auxiliaire d'Enseignement, **Université Laval**
  
      *Janvier 2017 - Avril 2019*. Correction d'examens pour les cours GLO-2100 Algorithmes et structures de données (2017-2019) et pour GLO-4027 Traitement de données massives.
+     
+   - Instructeur de Tutoriel Pratique, *Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique*, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science***.
+ 
+     *Juin 2017*, Université Laval. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
      
  - Participant au **Hackathon Hacking Health Québec 2016**.
  
