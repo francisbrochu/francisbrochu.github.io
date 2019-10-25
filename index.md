@@ -49,7 +49,7 @@ use-site-title: False
  
      *Janvier 2017 - Avril 2019*. Correction d'examens pour les cours GLO-2100 Algorithmes et structures de données (2017-2019) et pour GLO-4027 Traitement de données massives.
      
-   - Instructeur de Tutoriel Pratique, *Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique*, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science***.
+  - Instructeur de Tutoriel Pratique, *Introduction au prétraitement des données de spectrométrie de masse et à l'apprentissage automatique*, **École d'Été en Microbiomes - *Big Data Analytics for Omics Science***.
  
      *Juin 2017*, Université Laval. [Lien](https://bioinformaticsdotca.github.io/mss_2017)
      
