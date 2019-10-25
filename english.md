@@ -21,7 +21,7 @@ use-site-title: false
     
     *Université Laval, Québec,* 2016 - 
   
-    Advised by Pr. François Laviolette, co-advised by Pr. Jacques Corbeil.
+    Advised by Pr. François Laviolette.
     
 - **M.Sc. in Microbiology-Immunology** 
   
@@ -44,15 +44,15 @@ use-site-title: false
  - Artificial Intelligence MITACS Internship, **Can-Explore**
  
      *May 2019 - November 2019*. 
- 
- - Practical Tutorial Instructor, *Machine Learning applied to Metabolomics Data*, **Microbiome Summer School - Big Data Analytics for Omics Science**. 
- 
-     *June 2017*, Université Laval. [Link](https://bioinformaticsdotca.github.io/mss_2017)
      
  - Teaching Assistant, **Université Laval**
  
      *January 2017 - April 2019*. Grading of undergraduate tests for GLO-2100 Algorithms and Data Structures (2017-2019) and for GLO-4027 Big Data Treatment.
-     
+ 
+  - Practical Tutorial Instructor, *Machine Learning applied to Metabolomics Data*, **Microbiome Summer School - Big Data Analytics for Omics Science**. 
+ 
+     *June 2017*, Université Laval. [Link](https://bioinformaticsdotca.github.io/mss_2017)
+ 
  - Participant in the **Hacking Health Québec Hackathon 2016**.
      
      *October 2016*, Université Laval.
