@@ -41,9 +41,13 @@ use-site-title: false
 
 ## Experience
 
+ - Research and Innovation Analyst I, **Co-operator's General Insurance Company**
+ 
+     *January 2020 - ongoing*. R&D research in Data Science and applied Machine Learning. Includes Computer Vision, NLP and optimisation projects, along with software engineering and best practises seminars.
+
  - Artificial Intelligence MITACS Internship, **Can-Explore**
  
-     *May 2019 - November 2019*. 
+     *May 2019 - November 2019*. Research internship within the company.
      
  - Teaching Assistant, **Université Laval**
  
