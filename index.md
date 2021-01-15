@@ -41,6 +41,10 @@ use-site-title: False
 
 ## Expérience
 
+ - Analyst I en Recherche et Innovation, **Co-operator's Assurances Générales**
+ 
+     *Janvier 2020 - en cours*. Exécution de projets en science des données et apprentissage automatique appliqué, particulièrement en vision, traitement de la langue et optimisation. Mise au point de formations de bonnes pratiques de programmation, ingénierie logicielle et utilisation de git. 
+
  - Stagiaire MITACS en Intelligence Artificielle, **Can-Explore**
  
      *Mai 2019 - Novembre 2019*. 
